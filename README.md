@@ -1,6 +1,6 @@
 # kafka_demo
 
-Cài Đặt Kafka đầy đủ trước khi chạy
+Cài Đặt Kafka đầy đủ trước khi chạy ( Vì nếu push bản đầy đủ lên thì sẽ rất nặng )
 
 B1: Lên Apache Kafka trang chủ download bản binary code về, version 2.13
 
